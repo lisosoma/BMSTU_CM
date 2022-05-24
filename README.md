@@ -115,4 +115,4 @@ $$
 
 ## Результаты
 
-![fig3](/images/0.pdf)
+![fig3](/images/0-1.png)
